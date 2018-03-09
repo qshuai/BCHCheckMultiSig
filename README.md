@@ -12,11 +12,11 @@
 - cd this repository path
 
 ```
-	./autogen.sh
-	./configure
-	make
-	cd src/test
-	./test_bitcoin --run_test=transaction_tests/parse_tx
+./autogen.sh
+./configure
+make
+cd src/test
+./test_bitcoin --run_test=transaction_tests/parse_tx
 ```
 
 #### Bugs:
